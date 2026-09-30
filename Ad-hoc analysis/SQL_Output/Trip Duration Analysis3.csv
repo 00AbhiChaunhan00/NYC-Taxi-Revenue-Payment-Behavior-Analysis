@@ -1,0 +1,4 @@
+duration_group,total_trips,avg_fare,total_fare_revenue
+"Short (<10 min)",1191375,8.44,10049802.84
+"Medium (10-29 min)",1360913,19.23,26170379.73
+"Long (30+ min)",239250,57.25,13697380.17

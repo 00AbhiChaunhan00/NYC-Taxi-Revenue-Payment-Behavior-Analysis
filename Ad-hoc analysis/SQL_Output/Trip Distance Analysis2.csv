@@ -1,0 +1,4 @@
+distance_group,total_trips,avg_distance,avg_fare,total_fare_revenue
+"Short (<2 miles)",1661929,1.12,9.75,16203363.1
+"Medium (2-5 miles)",707925,2.94,18.33,12975513.22
+"Long (5+ miles)",421684,11.96,49.18,20738686.42
